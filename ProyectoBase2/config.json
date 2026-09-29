@@ -1,0 +1,7 @@
+{
+	"tension_minima":	11,
+	"tension_maxima":	13,
+	"corriente_maxima":	1.8500000238418579,
+	"tiempo_restablecimiento":	3000,
+	"reintentos_maximos":	3
+}
