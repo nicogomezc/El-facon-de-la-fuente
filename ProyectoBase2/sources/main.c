@@ -15,7 +15,7 @@ int main() {
     // Colocamos esta línea para que la terminal no se cierre automáticamente.
     // A veces conviene reemplazarla por un scanf() dummy
     /////////////////////////////////////////////////////////////////////////////////
-    printf("Presione ENTER para salir...");
+    printf("Presione ENTER para salir... hola candela langan");
     getchar();
     return 0;
 }
