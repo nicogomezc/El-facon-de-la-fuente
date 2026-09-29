@@ -12,7 +12,7 @@
 /* ------------------------------------------------------------------ */
 #ifdef _WIN32
 #include <windows.h>
-
+// hola prueba 23:25
 void scr_enable_utf8(void) {
     /* Configura el code page de salida y entrada a UTF-8 (65001) */
     SetConsoleOutputCP(65001);
